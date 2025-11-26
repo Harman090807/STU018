@@ -1,4 +1,4 @@
-# STU019
+# STU018
 # CTF_STU019-BookDetective  
 _A forensic book & review analysis project for a dataset of books and reviews_
 
